@@ -12,7 +12,7 @@ export class AppController {
   getHello() {
     //return this.appService.getHello();
     return {
-      message: 'This is an example response',
+      message: 'This is an example response documentation',
     };
   }
 }
